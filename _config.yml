@@ -75,6 +75,8 @@ author:
 
 # Site Settings
 teaser                   : "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+logo                     : "/images/sitelogo.jpg"
+search                   : true # To enable site-wide search
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
