@@ -14,6 +14,13 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
+    children:
+      - title: SQL
+        url: /year-archive/sql/
+      - title: Python
+        url: /year-archive/python/
+      - title: Machine Learning
+        url: /year-archive/machine-learning/
     
   - title: "CV"
     url: /files/cv.pdf
