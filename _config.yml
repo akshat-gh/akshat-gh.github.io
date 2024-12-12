@@ -213,6 +213,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  posts:
+    output: true
+    permalink: /:categories/:title/
 
 
 # Defaults
