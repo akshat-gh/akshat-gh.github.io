@@ -1,7 +1,7 @@
 ---
 layout: category
 title: SQL
-permalink: /blog/sql/
+permalink: /year-archive/sql/
 category: sql
 ---
 # SQL Posts
